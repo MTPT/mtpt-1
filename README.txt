@@ -44,3 +44,5 @@ You can contact us at http://www.xnlinux.cn/  or mail us:
 再见
 整理by扬扬，如果有什么问题，整理者什么都不懂的说
 需要联系的话联系麦田官方邮箱吧，mtpt@nwsuaf.edu.cn
+----------------------------
+//需要给invite文件夹、shoutbox_new.html等需要进行读写操作的文件、文件夹写入权限
