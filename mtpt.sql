@@ -2391,7 +2391,7 @@ CREATE TABLE `torrents_state` (
 -- ----------------------------
 -- Records of torrents_state
 -- ----------------------------
-
+INSERT INTO `torrents_state` VALUES ('1');
 -- ----------------------------
 -- Table structure for `uploadspeed`
 -- ----------------------------
