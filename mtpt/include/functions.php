@@ -2833,10 +2833,7 @@ var Ipv6_Js_Server = (("https:" == document.location.protocol)?"https://":"http:
 <?
 */
 ?>
-<script type="text/javascript">
-var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
-document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F62c5cb31eb087d215a439c0c2c106a89' type='text/javascript'%3E%3C/script%3E"));
-</script>
+
 <?	
 	print("</body></html>");
 
