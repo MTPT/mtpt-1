@@ -87,7 +87,7 @@ if ($smtptype != 'none'){
 </td></tr>
 <tr><td class="toolbox" colspan="2" align="center">
 <p><?php echo $lang_login['p_forget_pass_recover']?> &nbsp&nbsp&nbsp<?php echo $lang_login['p_forget_pass_cardrecover']?> &nbsp  &nbsp <?php echo $lang_login['p_user_log']?></p><a href="confirm_resend.php">重新发送验证邮箱（24h内邮箱验证未通过时使用）</a>
-<p><?php echo $lang_login['text_QQ']?></p><a target="_blank" href="http://wp.qq.com/wpa/qunwpa?idkey=e4a93409574f25aa6e1a29a917ff4b3c97b5db948915d09fbcc073aeb8233bad"><img border="0" src="http://pub.idqqimg.com/wpa/images/group.png" alt="麦田PT新人注册指导" title="麦田PT新人注册指导"></a>
+
 </td></tr>
 </table>
 <p></p>
