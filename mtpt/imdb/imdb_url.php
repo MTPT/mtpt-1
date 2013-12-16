@@ -91,6 +91,6 @@ function searchIMDB($title, $limit = 10)
 
 function getListString($list)
 {
-	return implode("/", $list);
+	return implode(" /", $list);
 }
 ?>
